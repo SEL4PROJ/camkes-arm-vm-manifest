@@ -13,11 +13,11 @@
   <project name="camkes-tool.git" path="projects/camkes-tool" revision="e12114fea7a3f8ff99ee17e621f0e2dedcaf0c93" upstream="master" dest-branch="master">
     <linkfile src="docs/index.md" dest="camkes_README.md"/>
   </project>
-  <project name="camkes-vm-examples.git" path="projects/vm-examples" revision="daf557336fc6c8cb839947c882150577edb496cb" upstream="master" dest-branch="master">
+  <project name="camkes-vm-examples.git" path="projects/vm-examples" revision="c5b54ace7a456be493e072111817f65d4ec625b1" upstream="master" dest-branch="master">
     <linkfile src="easy-settings.cmake" dest="easy-settings.cmake"/>
   </project>
   <project name="camkes-vm-images.git" path="projects/camkes-vm-images" revision="ede9814678d87adfc8d175c743283ea7844ae4ad" upstream="master" dest-branch="master"/>
-  <project name="camkes-vm-linux.git" path="projects/camkes-vm-linux" revision="491bf672a87485730c58c68b53c79ddbabde69a8" upstream="master" dest-branch="master"/>
+  <project name="camkes-vm-linux.git" path="projects/camkes-vm-linux" revision="a9d79657b3f01fabfa2692f815be7276d97c9b85" upstream="master" dest-branch="master"/>
   <project name="camkes-vm.git" path="projects/camkes-vm" revision="0174554598846ac73257bf006250f47a8f73d80c" upstream="master" dest-branch="master"/>
   <project name="capdl.git" path="projects/capdl" revision="2e97986776c809bc7409f92f5a80eeeff226cd67" upstream="master" dest-branch="master"/>
   <project name="global-components.git" path="projects/global-components" revision="02133497ed126910ec0f4ddb98b997e481d91ffa" upstream="master" dest-branch="master"/>
