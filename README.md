@@ -7,6 +7,14 @@
 CAmkES ARM VM Manifest
 ======================
 
+This repository is archived. Please use
+<https://github.com/seL4/camkes-vm-examples-manifest> instead.
+
+
+
+Archived README content
+-----------------------
+
 The repository contains Google repo manifests for an ARM VM in CAmkES.
 
 Please see <https://docs.sel4.systems/projects/camkes-vm/> for more
